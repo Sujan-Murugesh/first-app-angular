@@ -1,6 +1,10 @@
-# FirstApp
+# FirstApp Angular Framework...
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0.
+
+<img  src='https://github.com/Sujan-Murugesh/first-app-angular/blob/master/screenshots/1.PNG'> <br>
+<img  src='https://github.com/Sujan-Murugesh/first-app-angular/blob/master/screenshots/2.PNG'> <br>
+<img  src='https://github.com/Sujan-Murugesh/first-app-angular/blob/master/screenshots/3.PNG'> <br>
 
 ## Development server
 
