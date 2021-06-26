@@ -1,1 +1,60 @@
 /* You can add global styles to this file, and also import other style files */
+/*If what we put here that effect entaire project*/
+.homepage{
+    color: blue;
+    text-align: center;
+    font-size: 22px;
+    margin-top: 180px;
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.example-icon {
+    padding: 0 10px;
+  }
+
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+.mat-drawer-container {
+    background-color:rgb(222, 231, 236);
+}
+
+.mat-drawer {
+    background-color: rgb(226, 226, 226);
+}
+.mat-elevation-z5{
+    position: relative;
+    z-index: 2;
+}
+
+.mat-sidenav a:hover{
+    color: royalblue;
+}
+
+.example-card {
+    margin-left: 50px;
+    margin-top: 10px;
+    max-width: 500px;
+  }
+  
+  .example-header-image {
+    background-image: url('assets/sujan1-icon.png');
+    background-size: cover;
+  }
+
+  .fm{
+     margin: 100px;
+  }
+
+  .sbtm{
+      width: 150px;
+      height: 50px;
+  }
+
+  .sbtm:hover{
+      color: black;
+      background-color: rgb(191, 236, 187);
+      font-weight: bold;
+  }

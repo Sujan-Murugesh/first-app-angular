@@ -1,0 +1,32 @@
+<p style="margin-top: 50px; font-size: 30px; text-align: center;">This is the Contact Us Component</p>
+<hr>
+
+<div class="fm">
+    <p>Sample Form </p>
+    <mat-form-field style="width: 600px; margin-top: 20px;">
+        <mat-label>Enter your Name</mat-label>
+        <input matInput>
+      </mat-form-field>
+      <br>
+      <mat-form-field style="width: 600px; margin-top: 20px;">
+        <mat-label>Enter Your Password</mat-label>
+        <input type="password" matInput>
+      </mat-form-field><br>
+      <a routerLink='../student'>
+        <button mat-button class="sbtm"
+      style="margin-top: 15px; 
+      background-color: green; 
+      color: lemonchiffon; font-size: 20px;">
+      Submit</button>
+      </a>
+      <mat-form-field style="margin-left: 30px;">
+        <mat-label>Type</mat-label>
+        <mat-select>
+          <mat-option value="one">Admin</mat-option>
+          <mat-option value="two">Student</mat-option>
+          <mat-option value="three">Staff</mat-option>
+          <mat-option value="four">Guest</mat-option>
+        </mat-select>
+      </mat-form-field>
+      
+</div>
